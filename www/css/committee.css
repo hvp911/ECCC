@@ -1,0 +1,44 @@
+body
+{
+	background-color:#6B6B6B;
+}
+
+div
+{
+	color:#FFFFFF;
+	width:300px;
+	text-align: center; 
+	margin-left: auto ;
+	margin-right: auto ;
+	
+}
+
+p
+{
+	color:#FFFFFF;
+	width:300px;
+	text-align: center; 
+	margin-left: auto ;
+	margin-right: auto ;
+	font-family: "HelveticaNeue-Thin", "Helvetica Neue Thin", "Helvetica Neue", 
+     Helvetica, Arial, "Lucida Grande", sans-serif; letter-spacing: 1px;
+	font-weight: 300;
+	font-size:9pt;
+	
+	
+}
+
+.institutions
+{
+	color:#FFFFFF;
+	width:300px;
+	text-align: center; 
+	margin-left: auto ;
+	margin-right: auto ;
+	font-family: "HelveticaNeue-Thin", "Helvetica Neue Thin", "Helvetica Neue", 
+     Helvetica, Arial, "Lucida Grande", sans-serif; letter-spacing: 1px;
+	font-weight: 300;
+	font-size:9pt;
+	text-decoration: none;
+}
+

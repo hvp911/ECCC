@@ -1,0 +1,90 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+p.subcategory
+{
+	color:#FFFFFF;
+	width:300px;
+	text-align: center; 
+	margin-left: auto ;
+	margin-right: auto ;
+	font-family: "HelveticaNeue-Thin", "Helvetica Neue Thin", "Helvetica Neue", 
+     Helvetica, Arial, "Lucida Grande", sans-serif; letter-spacing: 1px;
+	font-weight: 400;
+	font-size:7pt;
+	line-height:8pt;
+	
+}
+
+p.name
+{
+	color:#FFFFFF;
+	width:300px;
+	text-align: center; 
+	margin-left: auto ;
+	margin-right: auto ;
+	font-family: "HelveticaNeue-Thin", "Helvetica Neue Thin", "Helvetica Neue", 
+     Helvetica, Arial, "Lucida Grande", sans-serif; letter-spacing: 1px;
+	font-weight: 400;
+	font-size:7pt;
+	line-height:8pt;
+	
+}
+
+p.address
+{
+	color:#FFFFFF;
+	width:300px;
+	text-align: center; 
+	margin-left: auto ;
+	margin-right: auto ;
+	font-family: "HelveticaNeue-Thin", "Helvetica Neue Thin", "Helvetica Neue", 
+     Helvetica, Arial, "Lucida Grande", sans-serif; letter-spacing: 1px;
+	font-weight: 400;
+	font-size:7pt;
+	line-height:7pt;
+	
+}
+
+p.metro
+{
+	color:#FFFFFF;
+	width:300px;
+	text-align: center; 
+	margin-left: auto ;
+	margin-right: auto ;
+	font-family: "HelveticaNeue-Thin", "Helvetica Neue Thin", "Helvetica Neue", 
+     Helvetica, Arial, "Lucida Grande", sans-serif; letter-spacing: 1px;
+	font-weight: 300;
+	font-size:7pt;
+
+}
+
+p.province
+{
+	color:#FFFFFF;
+	width:300px;
+	text-align: center; 
+	margin-left: auto ;
+	margin-right: auto ;
+	font-family: "HelveticaNeue-Thin", "Helvetica Neue Thin", "Helvetica Neue", 
+     Helvetica, Arial, "Lucida Grande", sans-serif; letter-spacing: 1px;
+	font-weight: 300;
+	font-size:7pt;
+
+}
+
+p.number
+{
+	color:#FFFFFF;
+	width:300px;
+	text-align: center; 
+	margin-left: auto ;
+	margin-right: auto ;
+	font-family: "HelveticaNeue-Thin", "Helvetica Neue Thin", "Helvetica Neue", 
+     Helvetica, Arial, "Lucida Grande", sans-serif; letter-spacing: 1px;
+	font-weight: 300;
+	font-size:7pt;
+
+}

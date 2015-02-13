@@ -1,0 +1,9 @@
+
+@font-face{
+	font-family:butterFont;
+	src: url("Butter.ttf");
+}
+
+.butterFont{
+	font-family: butterFont ,Arial,helvetica;
+}

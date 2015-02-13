@@ -1,0 +1,41 @@
+body
+{
+	background-color:#6B6B6B;
+}
+
+div
+{
+	color:#FFFFFF;
+	width:300px;
+	text-align: center; 
+	margin-left: auto ;
+	margin-right: auto ;
+	font-family: "HelveticaNeue-Thin", "Helvetica Neue Thin", "Helvetica Neue", 
+     Helvetica, Arial, "Lucida Grande", sans-serif; letter-spacing: 1px;
+	font-weight: 200;
+	font-size:9px;
+	
+}
+
+p
+{
+	color:#FFFFFF;
+	width:300px;
+	text-align: center; 
+	margin-left: auto ;
+	margin-right: auto ;
+	font-family: "HelveticaNeue-Thin", "Helvetica Neue Thin", "Helvetica Neue", 
+     Helvetica, Arial, "Lucida Grande", sans-serif; letter-spacing: 1px;
+	font-weight: 200;
+
+	
+	
+}
+
+
+#index td, #index th {
+   display:block;
+   width:50;
+   height:90;
+}
+
