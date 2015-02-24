@@ -1,6 +1,7 @@
 body
 {
 	background-color:#6B6B6B;
+	/*background = "img/montreal.jpg"*/
 }
 
 div
@@ -38,4 +39,27 @@ p
    width:50;
    height:90;
 }
+#container
+{
+    height:400px;
+    width:400px;
+    position:relative;
+}
 
+#image
+{    
+    position:absolute;
+    left:0;
+    top:0;
+}
+#text
+{
+    z-index:50;
+    text-align: left; 
+    position:absolute;    
+    color:white;
+    font-size:15px;
+    font-weight:bold;
+    left:20px;
+    top:430px;
+}
