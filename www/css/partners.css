@@ -47,6 +47,7 @@ div
 {
 	vertical-align:middle; 
 	text-align:center;
+	alignment:justify;
 	width:200px; 
 	height:100%;
 }
