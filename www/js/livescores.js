@@ -1,8 +1,9 @@
 Parse.$ = jQuery;
 
 $(document).ready(function() {
-	Parse.initialize("i0yTtNH3w54vJlwdyYzh0CoitwRflvD886VC5Jh0", "GLxyAdVIFFjFgyiz0ZjNjy7Kf0rfzlRI3pCsW08h");
-
+	//Parse.initialize("i0yTtNH3w54vJlwdyYzh0CoitwRflvD886VC5Jh0", "GLxyAdVIFFjFgyiz0ZjNjy7Kf0rfzlRI3pCsW08h");
+	Parse.initialize("wKqtGaC20OImEvGAZumdNkWjPQKS6qrerWq2tFqi", "RGQ5TNCWMYVva0zzLqS4bNUGvTJOt5dPR7KvPwt3");
+	
 	var query = new Parse.Query("University");
 		query.descending("score");
 		query.find({
