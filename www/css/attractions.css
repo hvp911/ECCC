@@ -10,7 +10,7 @@ body
 
 p.subcategory
 {
-	color:#FFFFFF;
+	color:black;
 	width:300px;
 	text-align: center; 
 	margin-left: auto ;
@@ -25,7 +25,7 @@ p.subcategory
 
 p.name
 {
-	color:#FFFFFF;
+	color:black;
 	width:300px;
 	text-align: center; 
 	margin-left: auto ;
@@ -40,7 +40,7 @@ p.name
 
 p.address
 {
-	color:#FFFFFF;
+	color:black;
 	width:300px;
 	text-align: center; 
 	margin-left: auto ;
@@ -55,7 +55,7 @@ p.address
 
 p.metro
 {
-	color:#FFFFFF;
+	color:black;
 	width:300px;
 	text-align: center; 
 	margin-left: auto ;
@@ -69,7 +69,7 @@ p.metro
 
 p.province
 {
-	color:#FFFFFF;
+	color:black;
 	width:300px;
 	text-align: center; 
 	margin-left: auto ;
@@ -83,7 +83,7 @@ p.province
 
 p.number
 {
-	color:#FFFFFF;
+	color:black;
 	width:300px;
 	text-align: center; 
 	margin-left: auto ;
